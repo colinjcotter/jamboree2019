@@ -1,0 +1,21 @@
+# Trajectory 1 lon/lat
+-12, 38
+
+# Variances
+1.5, 0.3
+
+
+
+# Trajectory 2 lon/lat
+-64, 38
+
+# Variances
+15.8, 1.1
+
+
+
+# Trajectory 3 lon/lat
+-35, 42
+
+# Variances
+3.3, 1.3

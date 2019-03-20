@@ -1,0 +1,11 @@
+Trajectory 1:
+	Latitude : -30 degrees, variance = +- 5 degrees
+        Longitude : 0. degrees, variance = +- 2 degrees
+
+Trajectory 2:
+        Latitude : 39 degrees, variance = +- 2 degrees
+        Longitude : -67 degrees, variance = +- 2 degrees
+
+Trajectory 3:
+	Latitude : -19 degrees, variance = +-10degrees
+        Longitude : -3 degrees, variance = +- 10 degrees 

@@ -36,7 +36,7 @@ for i in range(3):
     vvari = vvar[i,1:]
     eu = (upi-ui)**2/uvari
     ev = (vpi-vi)**2/vvari
-    error += np.sqrt(np.sum(ev) + np.sum(eu))
+    error += np.sqrt(np.sum(ev) + np.sum(eu))/up[i,0]
 
 error = np.array(error)
 error.tofile('error.txt',sep=' ')

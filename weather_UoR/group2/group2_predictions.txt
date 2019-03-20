@@ -1,0 +1,9 @@
+> Predictions for 12:00UTC on 20 March 2019
+>
+> 1. Dry bulb temperature: 8.0388 degrees Celsius
+> 2. Relative humidity: 70.8324%
+> 3. Accumulated sunshine in the past hour: 1420.1 seconds
+> 4. Accumulated rainfall since 00:00UTC: 0.7434 millimetres
+> 5. Station pressure: 1011.9 hPa
+> 6. 10m wind speed: 3.3166 metres per second
+> 7. 100cm soil temperature: 6.9535 degrees Celsius

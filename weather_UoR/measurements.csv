@@ -1,0 +1,3 @@
+TimeStamp,Time,Td,RH,Sdur,TSoil100,Rain_accum_der,P,U10
+UTC,hhmm,degC,%,sec,degC,mm,hPa,m/s
+20190320,1200,11.2,79,0,8.3,0.0,1024.8,3.6

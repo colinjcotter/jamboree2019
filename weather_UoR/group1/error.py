@@ -13,4 +13,4 @@ Measurements = df_meas.values[1].astype(float)[2:]
 
 error = np.sqrt(np.sum((Predictions-Measurements)**2/Variances))
 error = np.array([error])
-error.tofile('error.txt')
+error.tofile('error.txt',sep=' ')
